@@ -1,0 +1,9 @@
+{
+  "name": "cf47/theme-post",
+  "autoload": {
+    "psr-4": {
+      "cf47\\themepost\\": "src/"
+    }
+  },
+  "version": "0.1"
+}
